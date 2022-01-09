@@ -1,0 +1,14 @@
+{
+  "itemGroup.mlmitems": "MineLaMine Items",
+  "itemGroup.mlmblocks": "MineLaMine Blocks",
+
+  "item.minelamine.life_fiber": "Life Fiber",
+  "item.minelamine.scissor_blade": "Scissor Blade",
+  "item.minelamine.life_fiber_sword": "Life Fiber Sword",
+  "item.minelamine.life_fiber_pickaxe": "Life Fiber Pickaxe",
+  "item.minelamine.life_fiber_axe": "Life Fiber Axe",
+  "item.minelamine.life_fiber_shovel": "Life Fiber Shovel",
+  "item.minelamine.life_fiber_hoe": "Life Fiber Hoe",
+
+  "block.minelamine.life_fiber_block": "Life Fiber Block"
+}
